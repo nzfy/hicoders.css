@@ -1,0 +1,50 @@
+.container {
+   
+    display: flex;
+    background-image: linear-gradient( to bottom right, rgb(13, 81, 209), lightblue);
+    flex-wrap: wrap;
+}
+
+.container div {
+    padding: 20px 40px;
+    background-image: lightblue;
+    color:
+#fff;
+    font-size: 30px;
+    margin: 5px;
+    margin-left: 95px;
+}
+
+.box-1{
+    border-radius: 100px 5px;
+    height: 30px;
+    width: 80px;
+     background-image: linear-gradient( to right,  rgba(41,38,213,255) , rgba(90,102,192,255) , rgba(121,185,188,255));
+}
+
+.box-2{
+    border-radius: 100px 5px;
+    height: 30px;
+    width: 80px;
+    background-image: linear-gradient( to right,  rgba(41,38,213,255) , rgba(90,102,192,255) , rgba(121,185,188,255));
+    
+
+}
+.box-3{
+    border-radius: 100px 5px;
+    height: 30px;
+    width: 80px;
+    background-image: linear-gradient( to right,  rgba(41,38,213,255) , rgba(90,102,192,255) , rgba(121,185,188,255));
+}
+.box-4{
+    border-radius: 100px 5px;
+    height: 30px;
+    width: 80px;
+    background-image: linear-gradient( to right,  rgba(41,38,213,255) , rgba(90,102,192,255) , rgba(121,185,188,255));
+}
+.box-5{
+    border-radius: 100px 5px;
+    height: 30px;
+    width: 80px;
+    background-image: linear-gradient( to right,  rgba(41,38,213,255) , rgba(90,102,192,255) , rgba(121,185,188,255));
+}
